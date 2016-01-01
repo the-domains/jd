@@ -1,0 +1,14 @@
+layout_spectrum: 0.9185811
+color:
+  saturation: 0.3849846
+  brandStrength: 0.80106
+  lightness: 0.7745553
+  brandColors:
+    - '#FFB465'
+    - '#644A32'
+    - '#B4BCC6'
+    - '#422716'
+    - '#FFF977'
+  rhythmicContrast: 0.01598629
+typography_spectrum: 0.04133293
+name: JD
