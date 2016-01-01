@@ -1,14 +1,26 @@
-layout_spectrum: 0.9185811
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3849846
-  brandStrength: 0.80106
   lightness: 0.7745553
+  brandStrength: 0.9946237
   brandColors:
-    - '#FFB465'
-    - '#644A32'
-    - '#B4BCC6'
-    - '#422716'
-    - '#FFF977'
+    - '#FFB466'
+    - '#BECEE1'
+    - '#28160D'
+    - '#654B32'
+    - '#FFFFFB'
   rhythmicContrast: 0.01598629
-typography_spectrum: 0.04133293
+typography_spectrum: 0.9086022
+layout_spectrum: 1
 name: JD
