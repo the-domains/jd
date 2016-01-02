@@ -1,3 +1,7 @@
+name: JD
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.9086022
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-71923736-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3849846
-  lightness: 0.7745553
-  brandStrength: 0.9946237
   brandColors:
     - '#FFB466'
     - '#BECEE1'
     - '#28160D'
     - '#654B32'
     - '#FFFFFB'
+  brandStrength: 0.9946237
+  lightness: 0.7745553
+  saturation: 0.3849846
   rhythmicContrast: 0.01598629
-typography_spectrum: 0.9086022
-layout_spectrum: 1
-name: JD
+purpose: []
